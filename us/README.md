@@ -14,9 +14,9 @@
 
 ## Hashes
 
-- 485f7547ba30886b5a771e3df105665772d5ff3872b4683bcb3dea8ee2aca2c9
-  - ![img](https://www.apklab.io/apkicon.png?iconid=d6987a5ca241d82a52ff34701451702e0989703d)
+- 2e8b278dc2bfcce5d043f0846a34bf92dccedbd58b8b17152ebffb18a341655f
+  - ![img](https://www.apklab.io/apkicon.png?iconid=0d505962a92346c72d0e6cc2f04d717622be02c2)
 
 ## C2s
 
-- 103.249.28.208:38866
+- 103.249.28.209:28856
