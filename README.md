@@ -2,6 +2,12 @@
 
 A dataset behind my IW2021 talk.
 
+## Landing page IP addresses
+
+- [Data(CSV)](./lp_ip_addresses.csv)
+
+Note: the data have been collected since 2020/05.
+
 ## MoqHao landing pages on 2021/09/19
 
 ![map](./map.png)
