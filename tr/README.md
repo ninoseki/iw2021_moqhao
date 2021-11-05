@@ -12,8 +12,10 @@
 
 ## Hashes
 
+![img](https://www.apklab.io/apkicon.png?iconid=c8d2cb1a9cd7a8e70cbdea906ce07717d9e8130e)
+
 - 30bdf42374a5bb6a83be08f9667e0a9395e411f911dab08d9c0814d30fb0e260
-  - ![img](https://www.apklab.io/apkicon.png?iconid=c8d2cb1a9cd7a8e70cbdea906ce07717d9e8130e)
+- https://www.virustotal.com/gui/file/30bdf42374a5bb6a83be08f9667e0a9395e411f911dab08d9c0814d30fb0e260
 
 ## C2s
 
